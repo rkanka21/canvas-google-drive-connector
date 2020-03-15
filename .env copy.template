@@ -1,0 +1,13 @@
+POSTGRESQL_ADDRESS=127.0.0.1
+POSTGRESQL_DATABASE=lti_canvas_google
+POSTGRESQL_USERNAME=pg_user
+POSTGRESQL_PASSWORD=pg_pwd
+POSTGRESQL_PORT=5432
+
+LTI_APP_URL=http://canvasdrive.inursecoach.com:4567
+SESSION_SECRET=643200a51104b3be601c81b2ab457750
+
+GOOGLE_KEY=1020998884784-avs8pjqgiugeuosrukgpt478bf8taclh.apps.googleusercontent.com
+GOOGLE_SECRET=STlvoh1NxyUl0iqTB3wRCyTl
+
+REDIS_URL=redis://localhost:6379
